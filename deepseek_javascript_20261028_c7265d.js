@@ -1,3 +1,4 @@
+javascript
 // ============ ПЕРЕКЛЮЧЕНИЕ ВКЛАДОК ============
 document.addEventListener('DOMContentLoaded', function() {
     var tabButtons = document.querySelectorAll('.tab-btn');
